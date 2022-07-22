@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'YOUR API KEY'
 
 
 st.title('Grammar correction app')
